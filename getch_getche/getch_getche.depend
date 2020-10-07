@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570697026 source:e:\praktikum\alpro\prak2\getch_getche\main.cpp
+	<iostream>
+	<conio.h>
+
